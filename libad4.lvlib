@@ -91,8 +91,8 @@
 			<Item Name="ad find best range.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/ad find best range.vi"/>
 		</Item>
 		<Item Name="Constructors" Type="Folder">
-			<Item Name="cha desc vector constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/cha desc vector constructor.vi"/>
-			<Item Name="cha desc constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/cha desc constructor.vi"/>
+			<Item Name="cha desc vector constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/cha desc vector constructor.vi"/>
+			<Item Name="cha desc constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/cha desc constructor.vi"/>
 			<Item Name="cha constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/cha constructor.vi"/>
 			<Item Name="store constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/store constructor.vi"/>
 			<Item Name="trg mode constructor.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/trg mode constructor.vi"/>
