@@ -70,6 +70,7 @@
 			<Item Name="ad sample layout.ctl" Type="VI" URL="/&lt;userlib&gt;/libad4/controls/ad sample layout.ctl"/>
 		</Item>
 		<Item Name="scan_mem_helper.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/scan_mem_helper.vi"/>
+		<Item Name="scan_continuous_helper.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/scan_continuous_helper.vi"/>
 	</Item>
 	<Item Name="Utility" Type="Folder">
 		<Item Name="Conversion" Type="Folder">
@@ -77,6 +78,7 @@
 			<Item Name="ad sample to float64.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/ad sample to float64.vi"/>
 			<Item Name="ad float to sample.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/ad float to sample.vi"/>
 			<Item Name="ad float to sample64.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/ad float to sample64.vi"/>
+			<Item Name="samples to waveform.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/samples to waveform.vi"/>
 		</Item>
 		<Item Name="Info" Type="Folder">
 			<Item Name="ad get version.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/ad get version.vi"/>
@@ -102,7 +104,6 @@
 			<Item Name="ad product info.ctl" Type="VI" URL="/&lt;userlib&gt;/libad4/controls/ad product info.ctl"/>
 		</Item>
 		<Item Name="rising edge rate counter.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/rising edge rate counter.vi"/>
-		<Item Name="channel post scan properties.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/subvi/channel post scan properties.vi"/>
 	</Item>
 	<Item Name="initialize.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/initialize.vi"/>
 	<Item Name="close.vi" Type="VI" URL="/&lt;userlib&gt;/libad4/VIs/close.vi"/>
